@@ -1,7 +1,3 @@
-# lesson 1.
-print("hello")
+# all homework file
+# HM Lesson 1:
 
-for i in range(10):
-    print('my first project')
-
-NEW NEW COMMIT
